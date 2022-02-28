@@ -12,7 +12,7 @@ To install these notebooks locally:
       2. `conda activate XXX`
    3. Launch Jupyter Notebooks
       1. `cd IS2_Water_SE`
-         1. `jupyter notebook`
+      2. `jupyter notebook`
 
 To launch this notebook without downloading it locally, use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jameshgrn/IS2_Water_SE/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjameshgrn%2FIS2_Water_SE%2Fblob%2Fmain%2FConsole-SWOT.ipynb)
 * _note: this will fail if the data is more than 2GB, making it only good for demo purposes!_
