@@ -1,0 +1,13 @@
+name: superh2o
+channels:
+  - conda-forge
+dependencies:
+  - earthengine-api
+  - geemap
+  - rasterio
+  - leafmap
+  - skimage
+  - pandas
+  - folium
+  - pip:
+    - loguru
