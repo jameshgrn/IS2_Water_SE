@@ -11,5 +11,9 @@ dependencies:
   - pandas
   - folium
   - sliderule
+  - scipy
+  - plotly
+  - seaborn
   - pip:
     - loguru
+    - pyarrow.feather
