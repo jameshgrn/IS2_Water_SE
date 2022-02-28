@@ -1,18 +1,18 @@
-name: superh2o
+name: IS2SE
 channels:
   - conda-forge
 dependencies:
-  - pip
-  - earthengine-api
-  - geemap
-  - rasterio
-  - leafmap
-  - scikit-image
-  - pandas
-  - folium
-  - sliderule
-  - scipy
-  - plotly
-  - seaborn
-  - loguru
-  - pyarrow
+  - pip:
+    - earthengine-api
+    - geemap
+    - rasterio
+    - leafmap
+    - scikit-image
+    - pandas
+    - folium
+    - sliderule
+    - scipy
+    - plotly
+    - seaborn
+    - loguru
+    - pyarrow
