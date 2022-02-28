@@ -1,4 +1,10 @@
-# ICESat-2 Water Superelevation
+# ICESat-2 Water Superelevation Finder
+
+### James (Jake) Gearon, Department of Earth & Atmospheric Sciences, Indiana University
+##### [Github](https://github.com/jameshgrn) | [Medium](https://medium.com/@jake.gearon_34983) | [Twitter](https://twitter.com/JakeGearon) | [LinkedIn](https://www.linkedin.com/in/jake-gearon-742767148/) | [Website](https://jameshgrn.github.io) 
+
+---
+
 Jupyter Notebooks for ICESat-2 Water Superelevation, use the notebook CONSOLE-SWOT.ipynb, the CONSOLE-SWOT dev notebook is currently a work in progress.
 
 To install these notebooks locally:
