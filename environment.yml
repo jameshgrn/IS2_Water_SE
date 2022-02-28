@@ -2,11 +2,12 @@ name: superh2o
 channels:
   - conda-forge
 dependencies:
+  - pip
   - earthengine-api
   - geemap
   - rasterio
   - leafmap
-  - skimage
+  - scikit-image
   - pandas
   - folium
   - pip:
