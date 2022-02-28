@@ -10,5 +10,6 @@ dependencies:
   - scikit-image
   - pandas
   - folium
+  - sliderule
   - pip:
     - loguru
