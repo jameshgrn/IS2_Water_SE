@@ -2,10 +2,11 @@ name: IS2SE
 channels:
   - conda-forge
 dependencies:
+  - pip
+  - rasterio
   - pip:
     - earthengine-api
     - geemap
-    - rasterio
     - leafmap
     - scikit-image
     - pandas
