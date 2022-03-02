@@ -2,18 +2,19 @@ name: IS2SE
 channels:
   - conda-forge
 dependencies:
+  - gdal
   - pip
   - rasterio
-  - pip:
-    - earthengine-api
-    - geemap
-    - leafmap
-    - scikit-image
-    - pandas
-    - folium
-    - sliderule
-    - scipy
-    - plotly
-    - seaborn
-    - loguru
-    - pyarrow
+  - earthengine-api
+  - geemap
+  - leafmap
+  - scikit-image
+  - pandas
+  - folium
+  - sliderule
+  - scipy
+  - plotly
+  - seaborn
+  - loguru
+  - pyarrow
+
