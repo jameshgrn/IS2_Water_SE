@@ -5,19 +5,22 @@ dependencies:
   - gdal
   - pip
   - rasterio
-  - earthengine-api
-  - geemap
-  - leafmap
-  - scikit-image
-  - pandas
-  - pygeos
-  - folium
-  - sliderule
-  - scipy
-  - sklearn
-  - statsmodels
-  - plotly
-  - seaborn
-  - loguru
-  - pyarrow
+  - pip:
+    - sklearn
+    - statsmodels
+    - pygeos
+    - earthengine-api
+    - geemap
+    - leafmap
+    - scikit-image
+    - geopandas
+    - pandas
+    - folium
+    - sliderule
+    - scipy
+    - statsmodels
+    - plotly
+    - seaborn
+    - loguru
+    - pyarrow
 
