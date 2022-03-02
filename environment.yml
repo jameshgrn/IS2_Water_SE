@@ -10,9 +10,12 @@ dependencies:
   - leafmap
   - scikit-image
   - pandas
+  - pygeos
   - folium
   - sliderule
   - scipy
+  - sklearn
+  - statsmodels
   - plotly
   - seaborn
   - loguru
