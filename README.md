@@ -12,9 +12,9 @@ To install these notebooks locally:
    1. Clone this repo into a local folder
       1. `git clone https://github.com/jameshgrn/IS2_Water_SE.git`
       2. `cd IS2_Water_SE`
-   2. Create an environment from the provident `environment.yml` file:
-      1. `conda create -f environment.yml`
-         - _note: this will take awhile, go grab a coffee..._
+   2. Create an environment from the provided `environment.yml` file:
+      1. `conda env create -f environment.yml -v`
+         - _note: this will take a while, go grab a coffee..._
       2. `conda activate IS2SE`
    3. Launch Jupyter Notebooks
       1. `cd IS2_Water_SE`
