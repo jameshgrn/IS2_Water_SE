@@ -22,5 +22,6 @@ To install these notebooks locally:
       2. `jupyter notebook`
 
 
-To launch this notebook without downloading it locally, use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jameshgrn/IS2_Water_SE/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjameshgrn%2FIS2_Water_SE%2Fblob%2Fmain%2FConsole-SWOT.ipynb)
-* _note: this will fail if the data is more than 2GB, making it only good for demo purposes!_
+[comment]: <> (To launch this notebook without downloading it locally, use [![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/jameshgrn/IS2_Water_SE/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjameshgrn%2FIS2_Water_SE%2Fblob%2Fmain%2FConsole-SWOT.ipynb&#41;)
+
+[comment]: <> (* _note: this will fail if the data is more than 2GB, making it only good for demo purposes!_)
